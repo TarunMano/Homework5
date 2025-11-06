@@ -23,3 +23,4 @@ microbenchmark(x - y, x0 - y0)
 
 ## Compare multiplication
 microbenchmark(x * y, x0 * y0)
+
