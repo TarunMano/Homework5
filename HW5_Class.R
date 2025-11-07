@@ -180,3 +180,4 @@ setMethod("plot", c("sparse_numeric", "sparse_numeric"), function(x, y, ...) {
 })
 
 setMethod("length", "sparse_numeric", function(x) x@length)
+
